@@ -1,0 +1,2483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\School Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmaddupdateclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmaddupdateclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmaddupdateclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmaddupdateclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmfindclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmfindclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmfindclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmfindclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmgetallclassesaretaughbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmgetallclassesaretaughbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmgetallclassesaretaughbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmgetallclassesaretaughbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmshowclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmshowclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmshowclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmshowclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmlistclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmlistclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmlistclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmlistclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\controls\\ctrlclasscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\controls\\ctrlclasscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmlistteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmlistteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmlistteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmlistteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmgetallstudentsingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmgetallstudentsingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|c:\\users\\user\\source\\repos\\school project\\school project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\frmliststudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\frmliststudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\frmliststudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\frmliststudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmgetallstudentsingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmgetallstudentsingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clsteachersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clsteachersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\frmaddupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\frmaddupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clsgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clsgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clsgradeleveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clsgradeleveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clsstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clsstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clsstudentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clsstudentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\ctrlgetallstudentingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\ctrlgetallstudentingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\frmaddupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\frmaddupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clsclassdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clsclassdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clssubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clssubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clseducationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clseducationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clsgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clsgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clssubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clssubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clssubjectteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clssubjectteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clsteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clsteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clssubjectgradeleveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clssubjectgradeleveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clsdataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clsdataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\frmlistusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\frmlistusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clspayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clspayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|C:\\Users\\user\\source\\repos\\School Project\\schoolbusiness\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3A9033-B3F9-4C47-B100-D34C8C946AE9}|SchoolBusiness\\SchoolBusiness.csproj|solutionrelative:schoolbusiness\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmlistsubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmlistsubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmaddupdateteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmaddupdateteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmaddupdatesubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmaddupdatesubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\people\\frmaddupdatepersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\people\\frmaddupdatepersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\payments\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmlistsubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmlistsubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmfindteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmfindteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\controls\\ctrlgetallteachersteachsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\controls\\ctrlgetallteachersteachsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\controls\\ctrlgetallteachersteachsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\controls\\ctrlgetallteachersteachsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\controls\\ctrlgetallteachersteachinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\controls\\ctrlgetallteachersteachinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\controls\\ctrlgetallteachersteachinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\controls\\ctrlgetallteachersteachinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmshowsubjectteacherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmshowsubjectteacherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmshowsubjectteacherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmshowsubjectteacherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmshowsubjectsgradelevelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmshowsubjectsgradelevelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmshowsubjectsgradelevelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmshowsubjectsgradelevelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmgetallsubjectstaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmgetallsubjectstaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmgetallsubjectstaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmgetallsubjectstaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\frmaddupdatesubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\frmaddupdatesubjectgradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\controls\\ctrlsubjectteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\controls\\ctrlsubjectteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\controls\\ctrlsubjectteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\controls\\ctrlsubjectteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\controls\\ctrlsubjectgradelevelcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\controls\\ctrlsubjectgradelevelcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\controls\\ctrlsubjectgradelevelcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\controls\\ctrlsubjectgradelevelcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\controls\\ctrlgetallsubjectstaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\controls\\ctrlgetallsubjectstaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjectsandgradelevels\\controls\\ctrlgetallsubjectstaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjectsandgradelevels\\controls\\ctrlgetallsubjectstaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjects\\frmaddupdatesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjects\\frmaddupdatesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\subjects\\frmaddupdatesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\subjects\\frmaddupdatesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\frmshowstudentsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\frmshowstudentsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\frmshowstudentsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\frmshowstudentsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\frmfindstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\frmfindstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\frmfindstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\frmfindstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\controls\\ctrlstudentcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\controls\\ctrlstudentcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\controls\\ctrlstudentcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\controls\\ctrlstudentcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\controls\\ctrlstudentcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\controls\\ctrlstudentcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\controls\\ctrlstudentcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\controls\\ctrlstudentcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\people\\frmaddupdatepersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\people\\frmaddupdatepersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\ctrlgetallstudentingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\ctrlgetallstudentingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\ctrlfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\ctrlfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\ctrlfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\ctrlfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\users\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\users\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmshowteachersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmshowteachersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmshowteachersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmshowteachersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmgetallteachersteachsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmgetallteachersteachsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmgetallteachersteachsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmgetallteachersteachsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmgetallteachersteachinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmgetallteachersteachinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmgetallteachersteachinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmgetallteachersteachinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmfindteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmfindteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\frmaddupdateteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\frmaddupdateteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\controls\\ctrlteachercardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\controls\\ctrlteachercardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\controls\\ctrlteachercardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\controls\\ctrlteachercardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\controls\\ctrlteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\controls\\ctrlteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\teachers\\controls\\ctrlteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\teachers\\controls\\ctrlteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\controls\\ctrlgetallclassesaretaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\controls\\ctrlgetallclassesaretaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\controls\\ctrlgetallclassesaretaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\controls\\ctrlgetallclassesaretaughtbyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\controls\\ctrlclasscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\controls\\ctrlclasscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\controls\\ctrlclasscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\controls\\ctrlclasscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\controls\\ctrlclasscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\controls\\ctrlclasscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clssubjectteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clssubjectteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clssubjectsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clssubjectsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clspaymentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clspaymentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clsloghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clsloghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clsgroupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clsgroupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|C:\\Users\\user\\source\\repos\\School Project\\schooldataaccess\\clseducationleveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCA849F-7EDB-45A2-8F0D-EB159BFF01E5}|SchoolDataAccess\\SchoolDataAccess.csproj|solutionrelative:schooldataaccess\\clseducationleveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmfindclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmfindclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\clsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\clsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\controls\\ctrlclasscardwithfilter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\controls\\ctrlclasscardwithfilter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\ctrlsublist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\ctrlsublist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\ctrlsublist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\ctrlsublist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\classes\\frmlistclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\classes\\frmlistclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|C:\\Users\\user\\source\\repos\\School Project\\school project\\students\\frmfindstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2F4E9-D7CA-4BA8-A488-08BA2711531F}|School Project\\School Project.csproj|solutionrelative:school project\\students\\frmfindstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\school project\\ctrlsubjectteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school project\\ctrlsubjectteachercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\school project\\ctrlsubjectgradelevelcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school project\\ctrlsubjectgradelevelcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubjectTeacherCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:School Project\\ctrlSubjectTeacherCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmshowsubjectteacherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school project\\frmshowsubjectteacherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmShowSubjectTeacherInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:School Project\\frmShowSubjectTeacherInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmshowclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school project\\frmshowclassinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\school project\\ctrlclasscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school project\\ctrlclasscardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlClassCardWithFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:School Project\\ctrlClassCardWithFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateClasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:School Project\\frmAddUpdateClasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmaddupdateclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school project\\frmaddupdateclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmFindClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:School Project\\frmFindClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmfindclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school project\\frmfindclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmaddupdategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school project\\frmaddupdategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:School Project\\frmAddUpdateGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateGroup.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:School Project\\frmAddUpdateGroup.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmListPayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:School Project\\frmListPayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\School Project\\school project\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school project\\frmlistpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Program.cs",
+              "RelativeDocumentMoniker": "School Project\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Program.cs",
+              "RelativeToolTip": "School Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:51:08.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrlUserCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\Controls\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\Controls\\ctrlUserCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\Controls\\ctrlUserCard.cs [Design]",
+              "RelativeToolTip": "School Project\\Users\\Controls\\ctrlUserCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:31:17.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrlUserCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\Controls\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\Controls\\ctrlUserCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\Controls\\ctrlUserCard.cs",
+              "RelativeToolTip": "School Project\\Users\\Controls\\ctrlUserCard.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:31:18.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmChangePassword.cs [Design]*",
+              "RelativeToolTip": "School Project\\Users\\frmChangePassword.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:24:49.373Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmChangePassword.cs*",
+              "RelativeToolTip": "School Project\\Users\\frmChangePassword.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:25:18.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddUpdateUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\frmAddUpdateUser.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmAddUpdateUser.cs [Design]",
+              "RelativeToolTip": "School Project\\Users\\frmAddUpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:33:09.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAddUpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\frmAddUpdateUser.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmAddUpdateUser.cs",
+              "RelativeToolTip": "School Project\\Users\\frmAddUpdateUser.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:33:14.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUsers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsUsers.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsUsers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsUsers.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsUsers.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAnwHcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:32:55.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmSettings.cs",
+              "RelativeDocumentMoniker": "School Project\\frmSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmSettings.cs [Design]",
+              "RelativeToolTip": "School Project\\frmSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:34:42.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmSettings.cs",
+              "RelativeDocumentMoniker": "School Project\\frmSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmSettings.cs",
+              "RelativeToolTip": "School Project\\frmSettings.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAewC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:34:43.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAddUpdateClasses.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmAddUpdateClasses.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmAddUpdateClasses.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmAddUpdateClasses.cs",
+              "RelativeToolTip": "School Project\\Classes\\frmAddUpdateClasses.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:36.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAddUpdateClasses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmAddUpdateClasses.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmAddUpdateClasses.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmAddUpdateClasses.cs [Design]",
+              "RelativeToolTip": "School Project\\Classes\\frmAddUpdateClasses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:34.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmFindClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmFindClass.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmFindClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmFindClass.cs",
+              "RelativeToolTip": "School Project\\Classes\\frmFindClass.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:40.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmFindClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmFindClass.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmFindClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmFindClass.cs [Design]",
+              "RelativeToolTip": "School Project\\Classes\\frmFindClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:38.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmGetAllClassesAreTaughByTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmGetAllClassesAreTaughByTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmGetAllClassesAreTaughByTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmGetAllClassesAreTaughByTeacher.cs",
+              "RelativeToolTip": "School Project\\Classes\\frmGetAllClassesAreTaughByTeacher.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T01:02:44.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmGetAllClassesAreTaughByTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmGetAllClassesAreTaughByTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmGetAllClassesAreTaughByTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmGetAllClassesAreTaughByTeacher.cs [Design]",
+              "RelativeToolTip": "School Project\\Classes\\frmGetAllClassesAreTaughByTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:51:41.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmShowClassInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmShowClassInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmShowClassInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmShowClassInfo.cs",
+              "RelativeToolTip": "School Project\\Classes\\frmShowClassInfo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:45.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmShowClassInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmShowClassInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmShowClassInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmShowClassInfo.cs [Design]",
+              "RelativeToolTip": "School Project\\Classes\\frmShowClassInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:43.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmListClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmListClass.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmListClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmListClass.cs",
+              "RelativeToolTip": "School Project\\Classes\\frmListClass.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:24:13.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmListClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmListClass.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmListClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmListClass.cs [Design]",
+              "RelativeToolTip": "School Project\\Classes\\frmListClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:21:54.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ctrlClassCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCard.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\Controls\\ctrlClassCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCard.cs [Design]",
+              "RelativeToolTip": "School Project\\Classes\\Controls\\ctrlClassCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:25.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmListTeachers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmListTeachers.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmListTeachers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmListTeachers.cs",
+              "RelativeToolTip": "School Project\\Teachers\\frmListTeachers.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAjwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:09:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmListTeachers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmListTeachers.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmListTeachers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmListTeachers.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\frmListTeachers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:37:37.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmGetAllStudentsInGroup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmGetAllStudentsInGroup.cs",
+              "RelativeDocumentMoniker": "School Project\\frmGetAllStudentsInGroup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmGetAllStudentsInGroup.cs [Design]",
+              "RelativeToolTip": "School Project\\frmGetAllStudentsInGroup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:45:32.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmMain.cs",
+              "RelativeDocumentMoniker": "School Project\\frmMain.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmMain.cs",
+              "RelativeToolTip": "School Project\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:53:06.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmMain.cs",
+              "RelativeDocumentMoniker": "School Project\\frmMain.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmMain.cs [Design]",
+              "RelativeToolTip": "School Project\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:36:31.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmLogin.cs",
+              "RelativeDocumentMoniker": "School Project\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmLogin.cs",
+              "RelativeToolTip": "School Project\\frmLogin.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:43:35.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmLogin.cs",
+              "RelativeDocumentMoniker": "School Project\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmLogin.cs [Design]",
+              "RelativeToolTip": "School Project\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:14:02.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmListStudents.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmListStudents.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\frmListStudents.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmListStudents.cs",
+              "RelativeToolTip": "School Project\\Students\\frmListStudents.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:28:33.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmListStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmListStudents.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\frmListStudents.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmListStudents.cs [Design]",
+              "RelativeToolTip": "School Project\\Students\\frmListStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:28:30.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmGetAllStudentsInGroup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmGetAllStudentsInGroup.cs",
+              "RelativeDocumentMoniker": "School Project\\frmGetAllStudentsInGroup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmGetAllStudentsInGroup.cs",
+              "RelativeToolTip": "School Project\\frmGetAllStudentsInGroup.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:49:16.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsTeachersData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsTeachersData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsTeachersData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsTeachersData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsTeachersData.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAgwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:56:27.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ctrlGetAllStudentInGroup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlGetAllStudentInGroup.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlGetAllStudentInGroup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlGetAllStudentInGroup.cs [Design]",
+              "RelativeToolTip": "School Project\\ctrlGetAllStudentInGroup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:56:00.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmAddUpdateStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmAddUpdateStudent.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\frmAddUpdateStudent.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmAddUpdateStudent.cs [Design]",
+              "RelativeToolTip": "School Project\\Students\\frmAddUpdateStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:29:30.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "clsStudents.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsStudents.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsStudents.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsStudents.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsStudents.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIA8wC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:33:10.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsGradeLevelData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsGradeLevelData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsGradeLevelData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsGradeLevelData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsGradeLevelData.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAwJMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:32:25.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "clsGradeLevel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsGradeLevel.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsGradeLevel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsGradeLevel.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsGradeLevel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:33:14.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmAddUpdateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmAddUpdateStudent.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\frmAddUpdateStudent.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmAddUpdateStudent.cs",
+              "RelativeToolTip": "School Project\\Students\\frmAddUpdateStudent.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwJ8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:29:32.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "clsStudentsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsStudentsData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsStudentsData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsStudentsData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsStudentsData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewGwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:32:40.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmListUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmListUsers.cs [Design]",
+              "RelativeToolTip": "School Project\\Users\\frmListUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:25:20.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "clsClassData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsClassData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsClassData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsClassData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsClassData.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAvwM8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:58:28.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "clsUsersData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsUsersData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsUsersData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsUsersData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsUsersData.cs",
+              "ViewState": "AgIAAJQBAAAAAAAAAAAnwKUBAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:41:58.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "School Project\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "School Project\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:38:59.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "clsSubjects.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsSubjects.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsSubjects.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsSubjects.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsSubjects.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:33:06.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "clsEducationLevel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsEducationLevel.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsEducationLevel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsEducationLevel.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsEducationLevel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAD4vzoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:33:16.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "clsGroup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsGroup.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsGroup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsGroup.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsGroup.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwIQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:55:56.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "clsClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsClass.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsClass.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsClass.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:58:32.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "School Project\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmDashboard.cs",
+              "RelativeToolTip": "School Project\\frmDashboard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:49:36.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "clsSubjectGradeLevel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsSubjectGradeLevel.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsSubjectGradeLevel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsSubjectGradeLevel.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsSubjectGradeLevel.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAWwHoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:33:08.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "clsSubjectTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsSubjectTeacher.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsSubjectTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsSubjectTeacher.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsSubjectTeacher.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAjwG0AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:33:04.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "clsTeachers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsTeachers.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsTeachers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsTeachers.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsTeachers.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAvwJIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:56:51.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "clsSubjectGradeLevelData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsSubjectGradeLevelData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsSubjectGradeLevelData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsSubjectGradeLevelData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsSubjectGradeLevelData.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAuwM0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:32:38.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "clsDataAccessHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsDataAccessHelper.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsDataAccessHelper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsDataAccessHelper.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsDataAccessHelper.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAgwMQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:32:51.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "School Project\\frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmMain.Designer.cs",
+              "RelativeToolTip": "School Project\\frmMain.Designer.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAArwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:44:33.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "School Project\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\clsGlobal.cs",
+              "RelativeToolTip": "School Project\\clsGlobal.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:19:11.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmListUsers.cs",
+              "RelativeToolTip": "School Project\\Users\\frmListUsers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:25:22.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsPerson.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsPerson.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsPerson.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwFYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:45:30.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "clsPayments.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsPayments.cs",
+              "RelativeDocumentMoniker": "SchoolBusiness\\clsPayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolBusiness\\clsPayments.cs",
+              "RelativeToolTip": "SchoolBusiness\\clsPayments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:12:11.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmListUsers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmListUsers.Designer.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\frmListUsers.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmListUsers.Designer.cs",
+              "RelativeToolTip": "School Project\\Users\\frmListUsers.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAArwDsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:58:58.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmListSubjectGradeLevel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmListSubjectGradeLevel.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmListSubjectGradeLevel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmListSubjectGradeLevel.cs [Design]",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmListSubjectGradeLevel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:55:07.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmAddUpdateTeachers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmAddUpdateTeachers.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmAddUpdateTeachers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmAddUpdateTeachers.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\frmAddUpdateTeachers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:24:55.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmAddUpdatePersons.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\frmAddUpdatePersons.cs",
+              "RelativeDocumentMoniker": "School Project\\People\\frmAddUpdatePersons.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\frmAddUpdatePersons.cs [Design]",
+              "RelativeToolTip": "School Project\\People\\frmAddUpdatePersons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:47:31.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmAddUpdateSubjectGradeLevel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmAddUpdateSubjectGradeLevel.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmAddUpdateSubjectGradeLevel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmAddUpdateSubjectGradeLevel.cs [Design]",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmAddUpdateSubjectGradeLevel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:12.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmListPayments.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Payments\\frmListPayments.cs",
+              "RelativeDocumentMoniker": "School Project\\Payments\\frmListPayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Payments\\frmListPayments.cs",
+              "RelativeToolTip": "School Project\\Payments\\frmListPayments.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAArwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:32:03.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmListPayments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Payments\\frmListPayments.cs",
+              "RelativeDocumentMoniker": "School Project\\Payments\\frmListPayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Payments\\frmListPayments.cs [Design]",
+              "RelativeToolTip": "School Project\\Payments\\frmListPayments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:32:02.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmListSubjectGradeLevel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmListSubjectGradeLevel.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmListSubjectGradeLevel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmListSubjectGradeLevel.cs",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmListSubjectGradeLevel.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAnwHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:55:10.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmFindTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmFindTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmFindTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmFindTeacher.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\frmFindTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:24:59.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsPersonData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsPersonData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsPersonData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwKUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:54:02.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ctrlGetAllTeachersTeachInClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachInClass.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachInClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachInClass.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachInClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:07:26.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ctrlGetAllTeachersTeachInClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachInClass.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachInClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachInClass.cs",
+              "RelativeToolTip": "School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachInClass.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:10:01.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ctrlGetAllTeachersTeachSubject.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachSubject.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachSubject.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachSubject.cs",
+              "RelativeToolTip": "School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachSubject.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:46.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ctrlGetAllTeachersTeachSubject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachSubject.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachSubject.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachSubject.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\Controls\\ctrlGetAllTeachersTeachSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:45.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frmShowSubjectTeacherInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmShowSubjectTeacherInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmShowSubjectTeacherInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmShowSubjectTeacherInfo.cs",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmShowSubjectTeacherInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:40.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmShowSubjectTeacherInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmShowSubjectTeacherInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmShowSubjectTeacherInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmShowSubjectTeacherInfo.cs [Design]",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmShowSubjectTeacherInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:38.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmShowSubjectsGradeLevelInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmShowSubjectsGradeLevelInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmShowSubjectsGradeLevelInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmShowSubjectsGradeLevelInfo.cs",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmShowSubjectsGradeLevelInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:36.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "frmShowSubjectsGradeLevelInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmShowSubjectsGradeLevelInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmShowSubjectsGradeLevelInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmShowSubjectsGradeLevelInfo.cs [Design]",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmShowSubjectsGradeLevelInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:34.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "frmGetAllSubjectsTaughtByTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmGetAllSubjectsTaughtByTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmGetAllSubjectsTaughtByTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmGetAllSubjectsTaughtByTeacher.cs",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmGetAllSubjectsTaughtByTeacher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:32.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "frmGetAllSubjectsTaughtByTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmGetAllSubjectsTaughtByTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmGetAllSubjectsTaughtByTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmGetAllSubjectsTaughtByTeacher.cs [Design]",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmGetAllSubjectsTaughtByTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:30.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmAddUpdateSubjectGradeLevel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmAddUpdateSubjectGradeLevel.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\frmAddUpdateSubjectGradeLevel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\frmAddUpdateSubjectGradeLevel.cs",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\frmAddUpdateSubjectGradeLevel.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:15.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ctrlSubjectTeacherCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectTeacherCard.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectTeacherCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectTeacherCard.cs",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectTeacherCard.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:08.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ctrlSubjectTeacherCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectTeacherCard.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectTeacherCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectTeacherCard.cs [Design]",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectTeacherCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:07.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ctrlSubjectGradeLevelCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectGradeLevelCard.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectGradeLevelCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectGradeLevelCard.cs",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectGradeLevelCard.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:02.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ctrlSubjectGradeLevelCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectGradeLevelCard.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectGradeLevelCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectGradeLevelCard.cs [Design]",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlSubjectGradeLevelCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:00.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ctrlGetAllSubjectsTaughtByTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlGetAllSubjectsTaughtByTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlGetAllSubjectsTaughtByTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlGetAllSubjectsTaughtByTeacher.cs",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlGetAllSubjectsTaughtByTeacher.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:29:56.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ctrlGetAllSubjectsTaughtByTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlGetAllSubjectsTaughtByTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlGetAllSubjectsTaughtByTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\SubjectsAndGradeLevels\\Controls\\ctrlGetAllSubjectsTaughtByTeacher.cs [Design]",
+              "RelativeToolTip": "School Project\\SubjectsAndGradeLevels\\Controls\\ctrlGetAllSubjectsTaughtByTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:29:55.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "frmAddUpdateSubject.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Subjects\\frmAddUpdateSubject.cs",
+              "RelativeDocumentMoniker": "School Project\\Subjects\\frmAddUpdateSubject.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Subjects\\frmAddUpdateSubject.cs",
+              "RelativeToolTip": "School Project\\Subjects\\frmAddUpdateSubject.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:29:49.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "frmAddUpdateSubject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Subjects\\frmAddUpdateSubject.cs",
+              "RelativeDocumentMoniker": "School Project\\Subjects\\frmAddUpdateSubject.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Subjects\\frmAddUpdateSubject.cs [Design]",
+              "RelativeToolTip": "School Project\\Subjects\\frmAddUpdateSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:29:47.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "frmShowStudentsInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmShowStudentsInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\frmShowStudentsInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmShowStudentsInfo.cs",
+              "RelativeToolTip": "School Project\\Students\\frmShowStudentsInfo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:28:38.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "frmShowStudentsInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmShowStudentsInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\frmShowStudentsInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmShowStudentsInfo.cs [Design]",
+              "RelativeToolTip": "School Project\\Students\\frmShowStudentsInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:28:36.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "frmFindStudent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmFindStudent.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\frmFindStudent.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmFindStudent.cs",
+              "RelativeToolTip": "School Project\\Students\\frmFindStudent.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:27:29.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "frmFindStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmFindStudent.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\frmFindStudent.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmFindStudent.cs [Design]",
+              "RelativeToolTip": "School Project\\Students\\frmFindStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:01:20.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ctrlStudentCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\Controls\\ctrlStudentCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\Controls\\ctrlStudentCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\Controls\\ctrlStudentCardWithFilter.cs",
+              "RelativeToolTip": "School Project\\Students\\Controls\\ctrlStudentCardWithFilter.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAqwHcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:01:11.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ctrlStudentCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\Controls\\ctrlStudentCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\Controls\\ctrlStudentCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\Controls\\ctrlStudentCardWithFilter.cs [Design]",
+              "RelativeToolTip": "School Project\\Students\\Controls\\ctrlStudentCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:01:01.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ctrlStudentCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\Controls\\ctrlStudentCard.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\Controls\\ctrlStudentCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\Controls\\ctrlStudentCard.cs",
+              "RelativeToolTip": "School Project\\Students\\Controls\\ctrlStudentCard.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAvwDMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:27:00.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ctrlStudentCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\Controls\\ctrlStudentCard.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\Controls\\ctrlStudentCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\Controls\\ctrlStudentCard.cs [Design]",
+              "RelativeToolTip": "School Project\\Students\\Controls\\ctrlStudentCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:26:59.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "frmFindPerson.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "School Project\\People\\frmFindPerson.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\frmFindPerson.cs",
+              "RelativeToolTip": "School Project\\People\\frmFindPerson.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:45:39.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "frmFindPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "School Project\\People\\frmFindPerson.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\frmFindPerson.cs [Design]",
+              "RelativeToolTip": "School Project\\People\\frmFindPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:45:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ctrlPersonCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeToolTip": "School Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:18:52.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ctrlPersonCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "RelativeToolTip": "School Project\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:18:45.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "School Project\\People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeToolTip": "School Project\\People\\Controls\\ctrlPersonCard.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwEQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:51:09.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "School Project\\People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "School Project\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:28:51.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "frmAddUpdatePersons.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\frmAddUpdatePersons.cs",
+              "RelativeDocumentMoniker": "School Project\\People\\frmAddUpdatePersons.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\People\\frmAddUpdatePersons.cs",
+              "RelativeToolTip": "School Project\\People\\frmAddUpdatePersons.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwHMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:23:52.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ctrlGetAllStudentInGroup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlGetAllStudentInGroup.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlGetAllStudentInGroup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlGetAllStudentInGroup.cs",
+              "RelativeToolTip": "School Project\\ctrlGetAllStudentInGroup.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:57:13.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ctrlFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlFilter.cs",
+              "RelativeToolTip": "School Project\\ctrlFilter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:33:14.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ctrlFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlFilter.cs [Design]",
+              "RelativeToolTip": "School Project\\ctrlFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:32:43.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "frmShowUsersInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmShowUsersInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\frmShowUsersInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmShowUsersInfo.cs",
+              "RelativeToolTip": "School Project\\Users\\frmShowUsersInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:25:29.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "frmShowUsersInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmShowUsersInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\Users\\frmShowUsersInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Users\\frmShowUsersInfo.cs [Design]",
+              "RelativeToolTip": "School Project\\Users\\frmShowUsersInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:25:28.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "frmShowTeachersInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmShowTeachersInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmShowTeachersInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmShowTeachersInfo.cs",
+              "RelativeToolTip": "School Project\\Teachers\\frmShowTeachersInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:37:40.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "frmShowTeachersInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmShowTeachersInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmShowTeachersInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmShowTeachersInfo.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\frmShowTeachersInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:37:37.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "frmGetAllTeachersTeachSubject.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmGetAllTeachersTeachSubject.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmGetAllTeachersTeachSubject.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmGetAllTeachersTeachSubject.cs",
+              "RelativeToolTip": "School Project\\Teachers\\frmGetAllTeachersTeachSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:25:05.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "frmGetAllTeachersTeachSubject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmGetAllTeachersTeachSubject.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmGetAllTeachersTeachSubject.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmGetAllTeachersTeachSubject.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\frmGetAllTeachersTeachSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:01:38.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "frmGetAllTeachersTeachInClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmGetAllTeachersTeachInClass.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmGetAllTeachersTeachInClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmGetAllTeachersTeachInClass.cs",
+              "RelativeToolTip": "School Project\\Teachers\\frmGetAllTeachersTeachInClass.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:20:53.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "frmGetAllTeachersTeachInClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmGetAllTeachersTeachInClass.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmGetAllTeachersTeachInClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmGetAllTeachersTeachInClass.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\frmGetAllTeachersTeachInClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:17:57.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "frmFindTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmFindTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmFindTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmFindTeacher.cs",
+              "RelativeToolTip": "School Project\\Teachers\\frmFindTeacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:25:01.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "frmAddUpdateTeachers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmAddUpdateTeachers.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\frmAddUpdateTeachers.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\frmAddUpdateTeachers.cs",
+              "RelativeToolTip": "School Project\\Teachers\\frmAddUpdateTeachers.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwG4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:24:57.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "ctrlTeacherCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlTeacherCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\Controls\\ctrlTeacherCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlTeacherCardWithFilter.cs",
+              "RelativeToolTip": "School Project\\Teachers\\Controls\\ctrlTeacherCardWithFilter.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswG0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:31:04.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "ctrlTeacherCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlTeacherCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\Controls\\ctrlTeacherCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlTeacherCardWithFilter.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\Controls\\ctrlTeacherCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:54.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ctrlTeacherCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlTeacherCard.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\Controls\\ctrlTeacherCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlTeacherCard.cs",
+              "RelativeToolTip": "School Project\\Teachers\\Controls\\ctrlTeacherCard.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAnwE4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:52.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ctrlTeacherCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlTeacherCard.cs",
+              "RelativeDocumentMoniker": "School Project\\Teachers\\Controls\\ctrlTeacherCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Teachers\\Controls\\ctrlTeacherCard.cs [Design]",
+              "RelativeToolTip": "School Project\\Teachers\\Controls\\ctrlTeacherCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:30:50.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ctrlGetAllClassesAreTaughtbyTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlGetAllClassesAreTaughtbyTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\Controls\\ctrlGetAllClassesAreTaughtbyTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlGetAllClassesAreTaughtbyTeacher.cs",
+              "RelativeToolTip": "School Project\\Classes\\Controls\\ctrlGetAllClassesAreTaughtbyTeacher.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:53:00.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "ctrlGetAllClassesAreTaughtbyTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlGetAllClassesAreTaughtbyTeacher.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\Controls\\ctrlGetAllClassesAreTaughtbyTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlGetAllClassesAreTaughtbyTeacher.cs [Design]",
+              "RelativeToolTip": "School Project\\Classes\\Controls\\ctrlGetAllClassesAreTaughtbyTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:45:15.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "ctrlClassCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\Controls\\ctrlClassCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCardWithFilter.cs",
+              "RelativeToolTip": "School Project\\Classes\\Controls\\ctrlClassCardWithFilter.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:32.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "ctrlClassCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\Controls\\ctrlClassCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCardWithFilter.cs [Design]",
+              "RelativeToolTip": "School Project\\Classes\\Controls\\ctrlClassCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:30.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "ctrlClassCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCard.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\Controls\\ctrlClassCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCard.cs",
+              "RelativeToolTip": "School Project\\Classes\\Controls\\ctrlClassCard.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:34:27.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "clsSubjectTeacherData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsSubjectTeacherData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsSubjectTeacherData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsSubjectTeacherData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsSubjectTeacherData.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAjwIoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:35:55.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "clsSubjectsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsSubjectsData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsSubjectsData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsSubjectsData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsSubjectsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:32:36.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "clsSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsSettings.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsSettings.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:32:42.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "clsPaymentsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsPaymentsData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsPaymentsData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsPaymentsData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsPaymentsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:11:54.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "clsLogHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsLogHandler.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsLogHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsLogHandler.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsLogHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:32:23.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "clsGroupData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsGroupData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsGroupData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsGroupData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsGroupData.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:55:37.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "clsEducationLevelData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsEducationLevelData.cs",
+              "RelativeDocumentMoniker": "SchoolDataAccess\\clsEducationLevelData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\SchoolDataAccess\\clsEducationLevelData.cs",
+              "RelativeToolTip": "SchoolDataAccess\\clsEducationLevelData.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAKkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:32:50.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "frmFindClass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmFindClass.Designer.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmFindClass.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmFindClass.Designer.cs",
+              "RelativeToolTip": "School Project\\Classes\\frmFindClass.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAnwCgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:18:49.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 151,
+              "Title": "frmAddUpdateGroup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateGroup.cs",
+              "RelativeDocumentMoniker": "School Project\\frmAddUpdateGroup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateGroup.cs",
+              "RelativeToolTip": "School Project\\frmAddUpdateGroup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:44:01.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 150,
+              "Title": "frmAddUpdateGroup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateGroup.cs",
+              "RelativeDocumentMoniker": "School Project\\frmAddUpdateGroup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateGroup.cs [Design]",
+              "RelativeToolTip": "School Project\\frmAddUpdateGroup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:08:53.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "clsFormat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\clsFormat.cs",
+              "RelativeDocumentMoniker": "School Project\\clsFormat.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\clsFormat.cs",
+              "RelativeToolTip": "School Project\\clsFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:26:39.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 153,
+              "Title": "frmListPayments.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmListPayments.cs",
+              "RelativeDocumentMoniker": "School Project\\frmListPayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmListPayments.cs",
+              "RelativeToolTip": "School Project\\frmListPayments.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:17:45.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 154,
+              "Title": "frmListPayments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmListPayments.cs",
+              "RelativeDocumentMoniker": "School Project\\frmListPayments.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmListPayments.cs [Design]",
+              "RelativeToolTip": "School Project\\frmListPayments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:08:36.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "ctrlClassCardWithFilter.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCardWithFilter.Designer.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\Controls\\ctrlClassCardWithFilter.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\Controls\\ctrlClassCardWithFilter.Designer.cs",
+              "RelativeToolTip": "School Project\\Classes\\Controls\\ctrlClassCardWithFilter.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAArwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:47:42.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 152,
+              "Title": "frmAddUpdateGroup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateGroup.Designer.cs",
+              "RelativeDocumentMoniker": "School Project\\frmAddUpdateGroup.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateGroup.Designer.cs",
+              "RelativeToolTip": "School Project\\frmAddUpdateGroup.Designer.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAArwNIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:27:30.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "ctrlSubList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubList.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlSubList.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubList.cs [Design]",
+              "RelativeToolTip": "School Project\\ctrlSubList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:24:31.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "ctrlSubList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubList.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlSubList.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubList.cs",
+              "RelativeToolTip": "School Project\\ctrlSubList.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:24:32.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "frmListClass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmListClass.Designer.cs",
+              "RelativeDocumentMoniker": "School Project\\Classes\\frmListClass.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Classes\\frmListClass.Designer.cs",
+              "RelativeToolTip": "School Project\\Classes\\frmListClass.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAArwGgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:38:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "frmFindStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmFindStudent.Designer.cs",
+              "RelativeDocumentMoniker": "School Project\\Students\\frmFindStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\Students\\frmFindStudent.Designer.cs",
+              "RelativeToolTip": "School Project\\Students\\frmFindStudent.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAArwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:15:38.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "ctrlSubjectTeacherCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubjectTeacherCard.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlSubjectTeacherCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubjectTeacherCard.cs [Design]",
+              "RelativeToolTip": "School Project\\ctrlSubjectTeacherCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:26:53.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "ctrlSubjectGradeLevelCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubjectGradeLevelCard.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlSubjectGradeLevelCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubjectGradeLevelCard.cs [Design]",
+              "RelativeToolTip": "School Project\\ctrlSubjectGradeLevelCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:37:09.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "ctrlSubjectTeacherCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubjectTeacherCard.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlSubjectTeacherCard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlSubjectTeacherCard.cs",
+              "RelativeToolTip": "School Project\\ctrlSubjectTeacherCard.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:24:43.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "frmShowSubjectTeacherInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmShowSubjectTeacherInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\frmShowSubjectTeacherInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmShowSubjectTeacherInfo.cs [Design]",
+              "RelativeToolTip": "School Project\\frmShowSubjectTeacherInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:23:11.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "frmShowSubjectTeacherInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmShowSubjectTeacherInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\frmShowSubjectTeacherInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmShowSubjectTeacherInfo.cs",
+              "RelativeToolTip": "School Project\\frmShowSubjectTeacherInfo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAMwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:23:21.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "frmShowClassInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmShowClassInfo.cs",
+              "RelativeDocumentMoniker": "School Project\\frmShowClassInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmShowClassInfo.cs [Design]",
+              "RelativeToolTip": "School Project\\frmShowClassInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:32:21.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "ctrlClassCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlClassCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlClassCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlClassCardWithFilter.cs [Design]",
+              "RelativeToolTip": "School Project\\ctrlClassCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:19:41.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "ctrlClassCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlClassCardWithFilter.cs",
+              "RelativeDocumentMoniker": "School Project\\ctrlClassCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\ctrlClassCardWithFilter.cs",
+              "RelativeToolTip": "School Project\\ctrlClassCardWithFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:19:46.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 146,
+              "Title": "frmAddUpdateClasses.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateClasses.cs",
+              "RelativeDocumentMoniker": "School Project\\frmAddUpdateClasses.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateClasses.cs",
+              "RelativeToolTip": "School Project\\frmAddUpdateClasses.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:06:44.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 147,
+              "Title": "frmAddUpdateClasses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateClasses.cs",
+              "RelativeDocumentMoniker": "School Project\\frmAddUpdateClasses.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmAddUpdateClasses.cs [Design]",
+              "RelativeToolTip": "School Project\\frmAddUpdateClasses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:06:40.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 148,
+              "Title": "frmFindClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmFindClass.cs",
+              "RelativeDocumentMoniker": "School Project\\frmFindClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmFindClass.cs",
+              "RelativeToolTip": "School Project\\frmFindClass.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:48:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 149,
+              "Title": "frmFindClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmFindClass.cs",
+              "RelativeDocumentMoniker": "School Project\\frmFindClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\School Project\\School Project\\frmFindClass.cs [Design]",
+              "RelativeToolTip": "School Project\\frmFindClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:46:26.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

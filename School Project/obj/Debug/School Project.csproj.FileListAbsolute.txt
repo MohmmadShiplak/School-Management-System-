@@ -1,0 +1,68 @@
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\School Project.exe.config
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\School Project.exe
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\School Project.pdb
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\SchoolBusiness.dll
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\SchoolBusiness.pdb
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School Project.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School Project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School P.A65BC454.Up2Date
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School Project.exe
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School Project.pdb
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmAddUpdatePersons.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School Project.csproj.GenerateResource.cache
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\SchoolDataAccess.dll
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\SchoolDataAccess.pdb
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlPersonCard.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmFindPerson.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlPersonCardWithFilter.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmAddUpdateUser.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmListUsers.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlUserCard.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmShowUsersInfo.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmChangePassword.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmAddUpdateStudent.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlStudentCard.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmFindStudent.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlStudentCardWithFilter.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmListStudents.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmShowStudentsInfo.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmAddUpdateTeachers.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlTeacherCard.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlTeacherCardWithFilter.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmFindTeacher.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmShowTeachersInfo.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmListTeachers.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmAddUpdateSubject.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmAddUpdateSubjectGradeLevel.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlSubjectGradeLevelCard.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmShowSubjectsGradeLevelInfo.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlSubjectTeacherCard.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmShowSubjectTeacherInfo.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlGetAllSubjectsTaughtByTeacher.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlSubList.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmGetAllSubjectsTaughtByTeacher.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlGetAllTeachersTeachSubject.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmGetAllTeachersTeachSubject.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmAddUpdateClasses.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlClassCard.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmShowClassInfo.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlClassCardWithFilter.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmFindClass.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.Properties.Resources.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlGetAllTeachersTeachInClass.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmGetAllTeachersTeachInClass.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlGetAllClassesAreTaughtbyTeacher.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmGetAllClassesAreTaughByTeacher.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlGetAllStudentInGroup.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmGetAllStudentsInGroup.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.ctrlFilter.resources
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\School Project\School Project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.Classes.frmListClass.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmListSubjectGradeLevel.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmListPayments.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmLogin.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmSettings.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmDashboard.resources
+C:\Users\user\source\repos\School Project\School Project\obj\Debug\School_Project.frmMain.resources

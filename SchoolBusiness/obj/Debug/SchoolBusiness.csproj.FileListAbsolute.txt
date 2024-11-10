@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\School Project\SchoolBusiness\bin\Debug\SchoolBusiness.dll
+C:\Users\user\source\repos\School Project\SchoolBusiness\bin\Debug\SchoolBusiness.pdb
+C:\Users\user\source\repos\School Project\SchoolBusiness\bin\Debug\SchoolDataAccess.dll
+C:\Users\user\source\repos\School Project\SchoolBusiness\bin\Debug\SchoolDataAccess.pdb
+C:\Users\user\source\repos\School Project\SchoolBusiness\obj\Debug\SchoolBusiness.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\School Project\SchoolBusiness\obj\Debug\SchoolBusiness.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\School Project\SchoolBusiness\obj\Debug\SchoolBu.5CAB5DA8.Up2Date
+C:\Users\user\source\repos\School Project\SchoolBusiness\obj\Debug\SchoolBusiness.dll
+C:\Users\user\source\repos\School Project\SchoolBusiness\obj\Debug\SchoolBusiness.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\School Project\SchoolDataAccess\bin\Debug\SchoolDataAccess.dll
+C:\Users\user\source\repos\School Project\SchoolDataAccess\bin\Debug\SchoolDataAccess.pdb
+C:\Users\user\source\repos\School Project\SchoolDataAccess\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\School Project\SchoolDataAccess\obj\Debug\SchoolDataAccess.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\School Project\SchoolDataAccess\obj\Debug\SchoolDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\School Project\SchoolDataAccess\obj\Debug\SchoolDa.C0C84D7F.Up2Date
+C:\Users\user\source\repos\School Project\SchoolDataAccess\obj\Debug\SchoolDataAccess.dll
+C:\Users\user\source\repos\School Project\SchoolDataAccess\obj\Debug\SchoolDataAccess.pdb
+C:\Users\user\source\repos\School Project\SchoolDataAccess\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\School Project\SchoolDataAccess\bin\Debug\System.Configuration.ConfigurationManager.xml
